@@ -1,21 +1,8 @@
-Let me introduce myself
+2020 인하대학교 컴퓨터공학과 1학년 1학기
 
+2021 육군 전산병(시뮬레이션 지원) 복무
 
-Hi, I’m AimHigher77
-
-
-I’m interested in Computer Science Engineering
-
-
-I’m currently learning Algorithm
-
-
-I’m looking to collaborate on... NULL
-
-
-How to reach me? send an email to 'wnsgus821@gmail.com' :)
-
-
+2022 소프트웨어 마에스트로 13기 연수중
 
 <!---
 AimHigher77/AimHigher77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
