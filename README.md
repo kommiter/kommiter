@@ -6,19 +6,19 @@
 ## 연력
 <span style="
     display: flex;
-    align-items: center;"><img src="./images/inha.png" width="64" height="64" style="border-radius:50%; vertical-align:middle" /> <p style="font-weight:bold">&nbsp;&nbsp;2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </p>
+    align-items: center;"><img src="./images/inha.png" width="64" height="64" style="border-radius:50%; vertical-align:middle" /> <span style="font-weight:bold">&nbsp;&nbsp;2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </span>
 </span>
 <br>
 <span style="
     display: flex;
     align-items: center;">
-<img src="./images/bctp.png" width="64" height="64" /><p style="font-weight:bold">&nbsp;&nbsp;2021 | 육군 전산병(시뮬레이션 지원) 복무</p>
+<img src="./images/bctp.png" width="64" height="64" /><span style="font-weight:bold">&nbsp;&nbsp;2021 | 육군 전산병(시뮬레이션 지원) 복무</span>
 </span>
 <br>
 <span style="
     display: flex;
     align-items: center;">
-<img src="./images/swm.jpeg" width="64" height="64" style="border-radius:30%" /><p style="font-weight:bold">&nbsp;&nbsp;2022 | 소프트웨어 마에스트로 13기 연수중</p>
+<img src="./images/swm.jpeg" width="64" height="64" style="border-radius:30%" /><span style="font-weight:bold">&nbsp;&nbsp;2022 | 소프트웨어 마에스트로 13기 연수중</span>
 </span>
 
 ## Status
