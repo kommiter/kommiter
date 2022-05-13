@@ -22,8 +22,7 @@
 </span>
 
 ## Status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimHigher77)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimHigher77)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
