@@ -4,7 +4,7 @@
 
 
 ## 연력
-<span style="
+####<span style="
     display: flex;
     align-items: center;"><img src="./images/inha.png" width="64" height="64" style="border-radius:50%; vertical-align:middle" /> <span>   2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </span></span>
 #### <img src="./images/bctp.png" width="64" height="64" />  2021 | 육군 전산병(시뮬레이션 지원) 복무
