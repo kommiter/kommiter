@@ -6,7 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAimHigher77=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimHigher77)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AimHigher77/AimHigher77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
