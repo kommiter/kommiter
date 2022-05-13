@@ -4,9 +4,9 @@
 
 
 ## 연력
-#### ![ex_screenshot](./img/inha.svg) 2020 | 인하대학교 컴퓨터공학과 1학년 1학기
-#### ![ex_screenshot](./img/bctp.jpeg) 2021 | 육군 전산병(시뮬레이션 지원) 복무
-#### ![ex_screenshot](./img/swm.jpeg) 2022 | 소프트웨어 마에스트로 13기 연수중
+#### ![ex_screenshot](./images/inha.svg) 2020 | 인하대학교 컴퓨터공학과 1학년 1학기
+#### ![ex_screenshot](./images/bctp.jpeg) 2021 | 육군 전산병(시뮬레이션 지원) 복무
+#### ![ex_screenshot](./images/swm.jpeg) 2022 | 소프트웨어 마에스트로 13기 연수중
 
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
