@@ -1,10 +1,9 @@
 # Lil JunHyeon
 
-###
-Discord : Dev.Lim
-Github : AimHigher77
-Codeforces : Retro5pect
-BOJ : wnsgus821
+### Github : AimHigher77
+### Codeforces : Retro5pect
+### BOJ : wnsgus821
+### Discord : Dev.Lim
 
 
 ## 연력
