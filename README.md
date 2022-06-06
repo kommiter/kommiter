@@ -1,6 +1,6 @@
 # Lil JunHyeon
 
-### 안녕하세요! :) 가치를 창출하는 데 보람을 느끼는 풀스택 개발자 지망생 임준현입니다.
+### Dev.Lim / AimHigher77 / Retro5pect
 
 
 ## 연력
