@@ -3,7 +3,7 @@
 ## Github / Discord
 AimHigher77 / retro5pect #1000
 ## BOJ / Codeforces
-wnsgus821(Platinum V) / retro5pect(Gray : 704)
+wnsgus821(Platinum V) / retro5pect(Gray : 1135)
 
 ## 연력
 <span style="
