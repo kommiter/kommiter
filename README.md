@@ -1,7 +1,7 @@
 # Lil JunHyeon
 
 ## Github / Discord
-AimHigher77 / retro5pect #1000
+retro5pect / retro5pect #1000
 ## BOJ / Codeforces
 wnsgus821(Platinum V) / retro5pect(Gray : 1135)
 
