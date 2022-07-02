@@ -24,7 +24,7 @@ wnsgus821(Platinum V) / retro5pect(Gray : 1135)
 </span>
 
 ## Status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimHigher77)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retro5pect)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -55,6 +55,6 @@ wnsgus821(Platinum V) / retro5pect(Gray : 1135)
 
 ## Tools
 <!---
-AimHigher77/AimHigher77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+retro5pect/retro5pect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
