@@ -1,6 +1,6 @@
 # Lil JunHyeon
 ## Blog
-<a link="https://retro5pect.tistory.com/" target="_blank">retro5pect's retrospect </a>
+[blog]: https://retro5pect.tistory.com/ "retro5pect's retrospect"
 ## Github / Discord
 retro5pect / retro5pect #1000
 ## BOJ / Codeforces
