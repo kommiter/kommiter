@@ -1,4 +1,5 @@
 # Lil JunHyeon
+FE Developer 임준현입니다.
 ## Blog
 [retro5pect's retrospect](https://retro5pect.tistory.com/)
 ## Github / Discord
