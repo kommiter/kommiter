@@ -5,7 +5,7 @@
 ## Github / Discord
 retro5pect / retro5pect #1000
 ## BOJ / Codeforces
-[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) / [retro5pect(Gray : 1135)](https://codeforces.com/profile/retro5pect)
+[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) / [retro5pect(Gray : 1179)](https://codeforces.com/profile/retro5pect)
 
 ## 연력
 <span style="
