@@ -1,5 +1,5 @@
 # Lil JunHyeon
-사이드 프로젝트로 이것저것 만들어 보고싶은 FE Developer 임준현입니다.
+사이드 프로젝트로 이것저것 만들어 보고싶은 FE Developer 임준현입니다 ._.
 ## Blog
 [retro5pect's retrospect](https://retro5pect.tistory.com/)
 ## Github / Discord
