@@ -7,10 +7,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retro5pect)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
+
 ## BOJ(Solved.ac) / Codeforces
 [wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) <br><br>
-<!-- / [retro5pect(Gray : 1179)](https://codeforces.com/profile/retro5pect) -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/) <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
 
 ## 연력
 <span style="
