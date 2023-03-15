@@ -3,7 +3,7 @@
 <br>
 <br>
 ## Blog
-[retro5pect's retrospect](https://retro5pect.tistory.com/)<br><br>
+[digivision](https://digivision.tistory.com/)<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=retro5pect)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
