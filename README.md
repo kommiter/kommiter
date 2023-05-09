@@ -159,7 +159,7 @@
 
 <div align="center">
 
-![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=true&show_icons=true&theme=dracula)
+![JunHyeon Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kommiter&count_private=true&show_icons=true&theme=dracula)
 
 </div>
 
