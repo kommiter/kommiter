@@ -67,12 +67,11 @@
 </table> -->
 
 ## Side Projects
-
 <table>
 <tr>
 <td align="center" width="225">
 <a href="https://github.com/kommiter/exquiz.me-fe">
-<img src="" width="80" alt=""/>
+<img src="./images/exquiz_me_splash.jpg" width="80" alt=""/>
 <br /><b>실시간 퀴즈 플랫폼 exquiz.me</b>
 </a><br />
 <sub>2022/07/21 ~ 2022/07/25</sub><br />
@@ -92,7 +91,7 @@
 
 <td align="center" width="225">
 <a href="https://github.com/kommiter/junharry">
-<img src="" width="80" alt=""/>
+<img src="./images/mamind_splash.png" width="80" alt=""/>
 <br /><b>나만의 심리 상담 앱, mamind</b>
 </a><br />
 <sub>2022/06/26 ~ 2022/07/02</sub><br />
@@ -104,7 +103,7 @@
 <tr>
 <td align="center" width="225">
 <a href="https://github.com/kommiter/leaven-minigame">
-<img src="" width="80" alt=""/>
+<img src="./images/careertech_splash.png" width="80" alt=""/>
 <br /><b>화상 기반 컨택 플랫폼, Careertech</b>
 </a><br />
 <sub>2022/06/05 ~ 2022/06/05</sub><br />
