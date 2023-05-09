@@ -71,7 +71,7 @@
 <tr>
 <td align="center" width="225">
 <a href="https://github.com/kommiter/exquiz.me-fe">
-<img src="./images/exquiz_me_splash.jpg" width="80" alt=""/>
+<img src="./images/exquiz_me_splash.jpg" height="80" width="auto" alt=""/>
 <br /><b>실시간 퀴즈 플랫폼 exquiz.me</b>
 </a><br />
 <sub>2022/07/21 ~ 2022/07/25</sub><br />
@@ -81,7 +81,7 @@
 		
 <td align="center" width="225">
 <a href="#">				
-<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" width="80" alt=""/>
+<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" height="80" width="auto" alt=""/>
 <br /><b>영상 클립 플랫폼 Clippy.kr</b>
 </a><br />
 <sub>2022/11/24 ~ 2023/02/14</sub><br />
@@ -91,7 +91,7 @@
 
 <td align="center" width="225">
 <a href="https://github.com/kommiter/junharry">
-<img src="./images/mamind_splash.png" width="80" alt=""/>
+<img src="./images/mamind_splash.png" height="80" width="auto" alt=""/>
 <br /><b>나만의 심리 상담 앱, mamind</b>
 </a><br />
 <sub>2022/06/26 ~ 2022/07/02</sub><br />
@@ -103,7 +103,7 @@
 <tr>
 <td align="center" width="225">
 <a href="https://github.com/kommiter/leaven-minigame">
-<img src="./images/careertech_splash.png" width="80" alt=""/>
+<img src="./images/careertech_splash.png" height="80" width="auto" alt=""/>
 <br /><b>화상 기반 컨택 플랫폼, Careertech</b>
 </a><br />
 <sub>2022/06/05 ~ 2022/06/05</sub><br />
