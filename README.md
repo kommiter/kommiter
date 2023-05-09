@@ -3,10 +3,8 @@
 🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥
 <br>
 <br>
-## Blog
+## 기술 블로그 Kommit!
 [kommit!](https://kommit.kr/)<br><br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kommiter)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <br>
 
 ## BOJ(Solved.ac) / Codeforces
@@ -79,7 +77,7 @@
 			</a><br />
       <sub>2022/07/21 ~ 2022/07/25</sub><br />
       <sub>Next.js, FastAPI, MariaDB, Redis</sub><br />
-      <a target="_blank" href="https://test.junharry.com"><sub>test.junharry.com</sub></a>
+      <a target="_blank" href="https://exquiz.me"><sub>exquiz.me</sub></a>
 		</td>
 		
 <td align="center" width="225">
@@ -98,16 +96,19 @@
 			</a><br />
       <sub>2022/06/26 ~ 2022/07/02</sub><br />
       <sub>React.js, FastAPI, MariaDB, Redis</sub><br />
-      <a target="_blank" href="https://junharry.com"><sub>junharry.com</sub></a>
+      <a target="_blank" href="https://mamind.kr"><sub>mamind.kr</sub></a>
 		</td>
-    <td align="center" width="225">
+    
+	</tr>
+<tr>
+<td align="center" width="225">
 			<a href="https://github.com/kommiter/leaven-minigame">
 				<img src="" width="80" alt=""/>
 				<br /><b>화상 기반 컨택 플랫폼, Careertech</b>
 			</a><br />
       <sub>2022/06/05 ~ 2022/06/05</sub><br />
       <sub>Next.js, Tailwind CSS</sub><br />
-      <a target="_blank" href="https://minigame.leaven.team"><sub>minigame.leaven.team</sub></a>
+      <a target="_blank" href="https://careertek.kr"><sub>careertek.kr</sub></a>
 		</td>
 	</tr>
 				
