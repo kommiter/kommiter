@@ -1,5 +1,6 @@
 # Lil JunHyeon
-🔥교육으로 사회에 공헌하고 싶은 FullStack Developer 지망생 임준현입니다! 🔥
+교육 분야에 한 획을 긋는 소프트웨어를 통해 사회에 도움이 되고자하는 
+🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥
 <br>
 <br>
 ## Blog
@@ -73,7 +74,7 @@
 		
 		<td align="center" width="225">
 			<a href="https://github.com/kommiter/exquiz.me-fe">
-				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
+				<img src="" width="80" alt=""/>
 				<br /><b>실시간 퀴즈 플랫폼 exquiz.me</b>
 			</a><br />
       <sub>2022/07/21 ~ 2022/07/25</sub><br />
@@ -92,7 +93,7 @@
 		</td>
         <td align="center" width="225">
 			<a href="https://github.com/kommiter/junharry">
-				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
+				<img src="" width="80" alt=""/>
 				<br /><b>나만의 심리 상담 앱, mamind</b>
 			</a><br />
       <sub>2022/06/26 ~ 2022/07/02</sub><br />
@@ -101,7 +102,7 @@
 		</td>
     <td align="center" width="225">
 			<a href="https://github.com/kommiter/leaven-minigame">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
+				<img src="" width="80" alt=""/>
 				<br /><b>화상 기반 컨택 플랫폼, Careertech</b>
 			</a><br />
       <sub>2022/06/05 ~ 2022/06/05</sub><br />
