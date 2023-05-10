@@ -95,6 +95,10 @@
 				
 </table>
 
+## 수상경력
+2022 IGRUS Newbie Programming Contest - 최우수상(2등)
+2023 슈퍼챌린지 소프트웨어 해커톤 - 최우수상(3등)
+
 ## Career
 <!-- 
 <table>
