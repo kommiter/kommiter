@@ -149,15 +149,13 @@
 
 
 ## 기술 블로그 Kommit!
-[kommit!](https://kommit.kr/)<br><br>
+Commit Representing Korea, [kommit!](https://kommit.kr/)<br><br>
 <br>
 
 ## Problem Solving (알고리즘 문제해결)
-[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) <br><br>
-[retro5pect(Pupil)](https://solved.ac/profile/wnsgus821) <br><br>
+[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) / [retro5pect(Pupil)](https://solved.ac/profile/wnsgus821)
+<br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
-
-
 
 
 <br><br>
