@@ -1,70 +1,7 @@
-# Lil JunHyeon
-교육 분야에 한 획을 긋는 소프트웨어를 통해 사회에 도움이 되고자하는 
-🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥
-<br>
-<br>
-## 기술 블로그 Kommit!
-[kommit!](https://kommit.kr/)<br><br>
-<br>
-
-## Problem Solving (알고리즘 문제해결)
-[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) <br><br>
-[retro5pect(Pupil)](https://solved.ac/profile/wnsgus821) <br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
-
-## 연력
-<span style="
-    display: flex;
-    align-items: center;"><img src="./images/inha-univ.png" width="60" height="60" style="border-radius:50%; vertical-align:middle" /> <span style="font-weight:bold">&nbsp;&nbsp;2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </span>
-</span>
-<br>
-<span style="
-    display: flex;
-    align-items: center;">
-<img src="./images/bctp.png" width="64" height="64" /><span style="font-weight:bold">&nbsp;&nbsp;2021 | 육군 전산병(시뮬레이션 지원) 복무</span>
-</span>
-<br>
-<span style="
-    display: flex;
-    align-items: center;">
-<img src="./images/swm.jpeg" width="64" height="64" style="border-radius:30%" /><span style="font-weight:bold">&nbsp;&nbsp;2022 | 소프트웨어 마에스트로 13기 연수중</span>
-</span>
-
 # 임준현 (JunHyeon Lim) - Web Frontend Developer
-> 도전하며 성장하는 프론트엔드 개발자 임준현입니다!
+> 도전하며 성장하는 프론트엔드 🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥 임준현입니다!
 
 [👉 노션 포트폴리오 보러 가기](https://aim-higher.notion.site/Developement-Portfolio-62e17cb1cf77458883e68d892168716d)
-
-## Career
-<!-- 
-<table>
-<tr>
-<td align="center" width="250">
-<br /><a href="https://ejn.gg">
-<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
-<br /><br /><b>(주)이제이엔</b>
-</a><br />
-      <sub>2022/04/21 ~ 현재</sub><br />
-      <sub>백엔드팀 백엔드개발자</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="https://imforyou.co.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
-			  <br /><br /><b>(주)엠에이치큐</b>
-			</a><br />
-      <sub>2021/10/01 ~ 2022/04/18</sub><br />
-      <sub>웹개발팀 매니저</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="http://jobmap.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
-				<br /><br /><b>(주)미래직업전망연구원</b>
-			</a><br />
-      <sub>2019/09/01 ~ 2021/08/31</sub><br />
-      <sub>플랫폼개발사업본부 선임연구원</sub><br />
-		</td>
-	</tr>
-</table> -->
 
 ## Side Projects
 <table>
@@ -114,8 +51,67 @@
 				
 </table>
 
+## Career
+<!-- 
+<table>
+<tr>
+<td align="center" width="250">
+<br /><a href="https://ejn.gg">
+<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
+<br /><br /><b>(주)이제이엔</b>
+</a><br />
+      <sub>2022/04/21 ~ 현재</sub><br />
+      <sub>백엔드팀 백엔드개발자</sub><br />
+		</td>
+		<td align="center" width="250">
+			<br /><a href="https://imforyou.co.kr">
+				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
+			  <br /><br /><b>(주)엠에이치큐</b>
+			</a><br />
+      <sub>2021/10/01 ~ 2022/04/18</sub><br />
+      <sub>웹개발팀 매니저</sub><br />
+		</td>
+		<td align="center" width="250">
+			<br /><a href="http://jobmap.kr">
+				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
+				<br /><br /><b>(주)미래직업전망연구원</b>
+			</a><br />
+      <sub>2019/09/01 ~ 2021/08/31</sub><br />
+      <sub>플랫폼개발사업본부 선임연구원</sub><br />
+		</td>
+	</tr>
+</table> -->
+
+## 연력
+<span style="
+    display: flex;
+    align-items: center;"><img src="./images/inha-univ.png" width="60" height="60" style="border-radius:50%; vertical-align:middle" /> <span style="font-weight:bold">&nbsp;&nbsp;2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </span>
+</span>
+<br>
+<span style="
+    display: flex;
+    align-items: center;">
+<img src="./images/bctp.png" width="64" height="64" /><span style="font-weight:bold">&nbsp;&nbsp;2021 | 육군 전산병(시뮬레이션 지원) 복무</span>
+</span>
+<br>
+<span style="
+    display: flex;
+    align-items: center;">
+<img src="./images/swm.jpeg" width="64" height="64" style="border-radius:30%" /><span style="font-weight:bold">&nbsp;&nbsp;2022 | 소프트웨어 마에스트로 13기 연수중</span>
+</span>
+
 
 <br>
+
+
+## 기술 블로그 Kommit!
+[kommit!](https://kommit.kr/)<br><br>
+<br>
+
+## Problem Solving (알고리즘 문제해결)
+[wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) <br><br>
+[retro5pect(Pupil)](https://solved.ac/profile/wnsgus821) <br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
 
 ## Tech Stacks
 
