@@ -96,8 +96,9 @@
 </table>
 
 ## 수상경력
-2022 IGRUS Newbie Programming Contest - 최우수상(2등)
-2023 슈퍼챌린지 소프트웨어 해커톤 - 최우수상(3등)
+> 2022 IGRUS Newbie Programming Contest - 최우수상(2등)
+
+> 2023 슈퍼챌린지 소프트웨어 해커톤 - 최우수상(3등)
 
 ## Career
 <!-- 
@@ -131,24 +132,11 @@
 </table> -->
 
 ## 연력
-<span style="
-    display: flex;
-    align-items: center;"><img src="./images/inha-univ.png" width="60" height="60" style="border-radius:50%; vertical-align:middle" /> <span style="font-weight:bold">&nbsp;&nbsp;2020 | 인하대학교 컴퓨터공학과 1학년 1학기 </span>
-</span>
-<br>
-<span style="
-    display: flex;
-    align-items: center;">
-<img src="./images/bctp.png" width="64" height="64" /><span style="font-weight:bold">&nbsp;&nbsp;2021 | 육군 전산병(시뮬레이션 지원) 복무</span>
-</span>
-<br>
-<span style="
-    display: flex;
-    align-items: center;">
-<img src="./images/swm.jpeg" width="64" height="64" style="border-radius:30%" /><span style="font-weight:bold">&nbsp;&nbsp;2022 | 소프트웨어 마에스트로 13기 연수중</span>
-</span>
+> 2020 인하대학교 컴퓨터공학과 입학
 
+> 2021 육군 전산병(시뮬레이션 지원) 복무
 
+> 2022 소프트웨어 마에스트로 13기 연수
 <br>
 
 
