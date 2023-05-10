@@ -1,7 +1,52 @@
 # 임준현 (JunHyeon Lim) - Web Frontend Developer
-> 도전하며 성장하는 프론트엔드 🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥 임준현입니다!
+> 도전하며 성장하는 프론트엔드 🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥 임준현입니다!
+주요 개발 경험
+- WebSocket을 통한 실시간 다중 사용자의 참여가 가능한 온라인 교육 플랫폼 제작
+- **MAU 70K+** 이상의 사용자 트래픽 운용 및 피드백, 소프트웨어 기업에 납품
+- 6개월 프로젝트의 프로젝트 리드 경험
 
 [👉 노션 포트폴리오 보러 가기](https://aim-higher.notion.site/Developement-Portfolio-62e17cb1cf77458883e68d892168716d)
+
+## Tech Stacks
+
+<div align=center> 
+  Frontend
+  <br><br>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  -->
+  <br><br>
+  Backend
+  <br><br>
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+  <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">  -->
+  <br><br>
+  Infrastructure
+  <br><br>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<!--   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  -->
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<!--   <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=google cloud&logoColor=white">  -->
+<!--   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">  -->
+</div>
 
 ## Side Projects
 <table>
@@ -113,46 +158,7 @@
 [retro5pect(Pupil)](https://solved.ac/profile/wnsgus821) <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
 
-## Tech Stacks
 
-<div align=center> 
-  Frontend
-  <br><br>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  -->
-  <br><br>
-  Backend
-  <br><br>
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
-<!--   <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-  <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">  -->
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-<!--   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> 
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">  -->
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"> 
-<!--   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">  -->
-  <br><br>
-  Infrastructure
-  <br><br>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<!--   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
-  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  -->
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-<!--   <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=google cloud&logoColor=white">  -->
-<!--   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">  -->
-</div>
 
 
 <br><br>
