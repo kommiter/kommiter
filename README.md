@@ -147,7 +147,7 @@
 
 
 ## 기술 블로그 Kommit!
-Commit Representing Korea, [kommit!](https://kommit.kr/)<br><br>
+코드그립 - CodeGrip 개발 강좌, [CodeGrip](https://codegrip.kr/)<br><br>
 <br>
 
 ## Problem Solving (알고리즘 문제해결)
