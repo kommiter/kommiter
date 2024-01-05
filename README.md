@@ -9,7 +9,6 @@
 ## Tech Stacks
 
 <div align=center> 
-  FE
   <br/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
@@ -22,7 +21,6 @@
 <!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black"> 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  -->
   <br/>  <br/>
-  BE
   <br/>
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
@@ -36,7 +34,6 @@
 <!--   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">  -->
   <br/>  <br/>
-  Infra
   <br/>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <!--   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
@@ -97,13 +94,13 @@
 ## Award Achievements
 > 2022 IGRUS Newbie Programming Contest - Second Prize
 
-> 2023 SuperChallenge Software Hackerton - Second Prize
+> 2023 SuperChallenge Software Hackerton - Second Prize
 
 > 2023 Inha University Ideathon - Second Prize
 
 > 2023 I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program - Second Prize
 
-> 2023 INHA SW NET ZERO Hackerton - Third Prize
+> 2023 INHA SW NET ZERO Hackerton - Third Prize
 
 
 ## Activity
