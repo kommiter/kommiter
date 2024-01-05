@@ -1,11 +1,10 @@
-# 임준현 (JunHyeon Lim) - Web Frontend Developer
-> 도전하며 성장하는 프론트엔드 🔥 **프론트엔드 개발자 & PM** 임준현입니다! 🔥
-### 주요 개발 경험
-- WebSocket을 통한 실시간 다중 사용자의 참여가 가능한 온라인 교육 플랫폼 제작
-- **MAU 40K+** 이상의 사용자 트래픽 운용 및 피드백, 소프트웨어 기업에 납품
-- 6개월 프로젝트의 프로젝트 리드 경험
+# JunHyeon Lim - Web Frontend Developer
+> I am Junhyun Lim, a Front-End Developer & PM, committed to continuous growth through challenges! 🔥
+### Key Development Experiences
+- Creating an online education platform that allows real-time participation of multiple users through WebSocket.
+- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
 
-[👉 노션 포트폴리오 보러 가기](https://aim-higher.notion.site/Developement-Portfolio-62e17cb1cf77458883e68d892168716d)
+[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/Developement-Portfolio-62e17cb1cf77458883e68d892168716d)
 
 ## Tech Stacks
 
@@ -51,19 +50,19 @@
 <table>
 <tr>
 <td align="center" width="225">
-<a href="https://github.com/kommiter/exquiz.me-fe">
+<a href="#">
 <img src="./images/exquiz_me_splash.jpg" height="80" width="auto" alt=""/>
-<br /><b>실시간 퀴즈 플랫폼 exquiz.me</b>
+<br /><b>Live Quiz Platform exquiz.me</b>
 </a><br />
 <sub>2022/07/21 ~ 2022/07/25</sub><br />
 <sub>Next.js, FastAPI, MariaDB, Redis</sub><br />
-<a target="_blank" href="https://exquiz.me"><sub>exquiz.me</sub></a>
+<a target="_blank" href="#"><sub>exquiz.me</sub></a>
 </td>
 		
 <td align="center" width="225">
 <a href="#">				
 <img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" height="80" width="auto" alt=""/>
-<br /><b>영상 클립 플랫폼 Clippy.kr</b>
+<br /><b>Video Clip Platform Clippy.kr</b>
 </a><br />
 <sub>2022/11/24 ~ 2023/02/14</sub><br />
 <sub>Next.js, NestJS, MariaDB, Redis</sub><br />
@@ -71,9 +70,9 @@
 </td>
 
 <td align="center" width="225">
-<a href="https://github.com/kommiter/junharry">
+<a href="https://mamind.kr">
 <img src="./images/mamind_splash.png" height="80" width="auto" alt=""/>
-<br /><b>나만의 심리 상담 앱, mamind</b>
+<br /><b>My Own Psychological Counseling App, mamind</b>
 </a><br />
 <sub>2022/06/26 ~ 2022/07/02</sub><br />
 <sub>React.js, FastAPI, MariaDB, Redis</sub><br />
@@ -83,74 +82,44 @@
 
 <tr>
 <td align="center" width="225">
-<a href="https://github.com/kommiter/leaven-minigame">
+<a href="trippy.kr">
 <img src="./images/careertech_splash.png" height="80" width="auto" alt=""/>
-<br /><b>화상 기반 컨택 플랫폼, Careertech</b>
+<br /><b>Image Recognition-Based In-Flight Carry-On Item Detection Service, Trippy.kr</b>
 </a><br />
 <sub>2022/06/05 ~ 2022/06/05</sub><br />
 <sub>Next.js, Tailwind CSS</sub><br />
-<a target="_blank" href="https://careertek.kr"><sub>careertek.kr</sub></a>
+<a target="_blank" href="trippy.kr"><sub>trippy.kr</sub></a>
 </td>
 </tr>
 				
 </table>
 
-## 수상경력
-> 2022 IGRUS Newbie Programming Contest - 최우수상(2등)
+## Award Achievements
+> 2022 IGRUS Newbie Programming Contest - Second Prize
 
-> 2023 슈퍼챌린지 소프트웨어 해커톤 - 최우수상(3등)
+> 2023 SuperChallenge Software Hackerton - Second Prize
 
-> 2023 인하대학교 아이디어톤 - 금상(2등)
+> 2023 Inha University Ideathon - Second Prize
 
-> 2023 아랩 액셀러레이팅 예비창업과정 - 최우수상(2등)
+> 2023 I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program - Second Prize
 
-> 2023 INHA SW NET ZERO 해커톤 - 우수상(3등)
+> 2023 INHA SW NET ZERO Hackerton - Third Prize
 
-## Career
-<!-- 
-<table>
-<tr>
-<td align="center" width="250">
-<br /><a href="https://ejn.gg">
-<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
-<br /><br /><b>(주)이제이엔</b>
-</a><br />
-      <sub>2022/04/21 ~ 현재</sub><br />
-      <sub>백엔드팀 백엔드개발자</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="https://imforyou.co.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
-			  <br /><br /><b>(주)엠에이치큐</b>
-			</a><br />
-      <sub>2021/10/01 ~ 2022/04/18</sub><br />
-      <sub>웹개발팀 매니저</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="http://jobmap.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
-				<br /><br /><b>(주)미래직업전망연구원</b>
-			</a><br />
-      <sub>2019/09/01 ~ 2021/08/31</sub><br />
-      <sub>플랫폼개발사업본부 선임연구원</sub><br />
-		</td>
-	</tr>
-</table> -->
 
-## 연력
-> 2020 인하대학교 컴퓨터공학과 입학
+## Activity
+> 2020 Inha University - Computer Science Engineering
 
-> 2021 육군 전산병(시뮬레이션 지원) 복무
+> 2021 Korean Army Computer Specialist (Simulation Support) Service
 
-> 2022 소프트웨어 마에스트로 13기 연수
+> 2022 Ministry of Science and ICT's Software Maestro 13th
 <br>
 
 
-## 기술 블로그 Kommit!
-코드그립 - CodeGrip 개발 강좌, [CodeGrip](https://codegrip.kr/)<br><br>
+## Tech Blog CodeGrip
+CodeGrip, [CodeGrip](https://codegrip.kr/)<br><br>
 <br>
 
-## Problem Solving (알고리즘 문제해결)
+## Problem Solving
 [wnsgus821(Platinum V)](https://solved.ac/profile/wnsgus821) / [retro5pect(Pupil)](https://solved.ac/profile/wnsgus821)
 <br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
@@ -159,8 +128,6 @@
 <br><br>
 
 <div align="center">
-
-![JunHyeon Lim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kommiter&count_private=true&show_icons=true&theme=dracula)
 
 </div>
 
