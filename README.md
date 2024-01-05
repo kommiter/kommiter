@@ -43,7 +43,7 @@
 <!--   <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">  -->
 </div>
 
-## Side Projects
+## Project History
 <table>
 <tr>
 <td align="center" width="225">
@@ -80,7 +80,7 @@
 <tr>
 <td align="center" width="225">
 <a href="trippy.kr">
-<img src="./images/careertech_splash.png" height="80" width="auto" alt=""/>
+<img src="#" height="80" width="auto" alt=""/>
 <br /><b>Image Recognition-Based In-Flight Carry-On Item Detection Service, Trippy.kr</b>
 </a><br />
 <sub>2022/06/05 ~ 2022/06/05</sub><br />
