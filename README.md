@@ -94,13 +94,13 @@
 ## Award Achievements
 > 2022 IGRUS Newbie Programming Contest - Second Prize
 
-> 2023SuperChallenge Software Hackerton -Second Prize
+> 2023 SuperChallenge Software Hackerton - Second Prize
 
 > 2023 Inha University Ideathon - Second Prize
 
 > 2023 I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program - Second Prize
 
-> 2023 INHA SW NET ZEROHackerton-Third Prize
+> 2023 INHA SW NET ZERO Hackerton-Third Prize
 
 
 ##Activity
@@ -109,6 +109,12 @@
 > 2021 Korean Army Computer Specialist (Simulation Support) Service
 
 > 2022 Ministry of Science and ICT's Software Maestro 13th
+
+> 2023 Thailand Chiang-Mai University HACKERTON/K-CAMT
+
+> 2024 K-Software Bootcamp 3th TA
+
+> 2024 Newyork Global Start-Up Capstone Design Program
 <br>
 
 
