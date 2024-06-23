@@ -1,10 +1,54 @@
+*Under Constructing
+# JunHyeon Lim - Web Frontend Developer
+
+[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/e7331037417b4969827c75e912978f68?pvs=4)
+
+## Work Experiences
+
+**우리방식대로 (Rife, Running Life)**
+- **Fullstack Developer**, Web Team (2024/07 - Present)
+
+**HyperEZ (MSB Corporation)**
+- **Frontend Engineer**, DevOps Team (2024/01 - 2024/02)
+
+## Education
+
+**Inha University**
+
+- Studies: Computer Science Engineering
+- Period: March 2020 - Present
+
+## Projects
+- `Side Project` [Clippy](https://clippy.kr) (2022.11.24 ~ 2023.02.14) : A third-party Twitch clip creation service.
+
+## Tech Stacks
+
+| Category                    | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Langauge**            | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **FrontEnd**            | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=Chakra UI&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  |
+| **BackEnd**             | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Database & ORM**      | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/google cloud-4285F4?style=for-the-badge&logo=google cloud&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">                                                                                                                                                                                                                                                                                                          |
+
+
+<br><br>
+
+<div align="center">
+
+![Hyeonwoo's GitHub stats](
+~~link
+)
+
+</div>
+
 # JunHyeon Lim - Web Frontend Developer
 > I am Junhyun Lim, a Front-End Developer & PM, committed to continuous growth through challenges! 🔥
 ### Key Development Experiences
 - Creating an online education platform that allows real-time participation of multiple users through WebSocket.
 - Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
 
-[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/Developement-Portfolio-62e17cb1cf77458883e68d892168716d)
+[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/e7331037417b4969827c75e912978f68?pvs=4)
 
 ## Tech Stacks
 
