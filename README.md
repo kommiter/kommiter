@@ -1,5 +1,9 @@
 *Under Constructing
 # JunHyeon Lim - Web Frontend Developer
+> I am Junhyun Lim, a Front-End Developer & PM, committed to continuous growth through challenges! 🔥
+### Key Development Experiences
+- Creating an online education platform that allows real-time participation of multiple users through WebSocket.
+- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
 
 [👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/e7331037417b4969827c75e912978f68?pvs=4)
 
@@ -41,14 +45,6 @@
 )
 
 </div>
-
-# JunHyeon Lim - Web Frontend Developer
-> I am Junhyun Lim, a Front-End Developer & PM, committed to continuous growth through challenges! 🔥
-### Key Development Experiences
-- Creating an online education platform that allows real-time participation of multiple users through WebSocket.
-- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
-
-[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/e7331037417b4969827c75e912978f68?pvs=4)
 
 ## Tech Stacks
 
