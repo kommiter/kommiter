@@ -130,34 +130,28 @@
 </table>
 
 ## Award Achievements
-> 2022 IGRUS Newbie Programming Contest - Second Prize
+2023 [INHA SW NET ZERO Hackerton](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) - Third Prize
 
-> 2023 SuperChallenge Software Hackerton - Second Prize
+2023 [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) - Second Prize
 
-> 2023 Inha University Ideathon - Second Prize
+2023 [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) - Second Prize
 
-> 2023 I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program - Second Prize
+2023 [SuperChallenge Software Hackerton]() - Second Prize
 
-> 2023 INHA SW NET ZERO Hackerton-Third Prize
+2022 [IGRUS Newbie Programming Contest]() - Second Prize
 
+## Activity
+2024 [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
 
-##Activity
-> 2020 Inha University - Computer Science Engineering
+2024 [K-Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) 3th TA
 
-> 2021 Korean Army Computer Specialist (Simulation Support) Service
+2023 [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
-> 2022 Ministry of Science and ICT's Software Maestro 13th
+2022 [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 
-> 2023 Thailand Chiang-Mai University HACKERTON/K-CAMT
+2021 [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (Simulation Support) Service
 
-> 2024 K-Software Bootcamp 3th TA
-
-> 2024 Newyork Global Start-Up Capstone Design Program
-<br>
-
-
-## Tech Blog CodeGrip
-CodeGrip, [CodeGrip](https://codegrip.kr/)<br><br>
+2020 [Inha University](https://cse.inha.ac.kr/cse/index.do) - Computer Science Engineering
 <br>
 
 ## Problem Solving
