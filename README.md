@@ -9,9 +9,6 @@
 
 ## Work Experiences
 
-**우리방식대로 (Rife, Running Life)**
-- **Fullstack Developer**, Web Team (2024/07 - Present)
-
 **HyperEZ (MSB Corporation)**
 - **Frontend Engineer**, DevOps Team (2024/01 - 2024/02)
 
