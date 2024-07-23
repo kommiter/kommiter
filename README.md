@@ -10,7 +10,7 @@
 ## Work Experiences
 
 **HyperEZ (MSB Corporation)**
-- **Frontend Engineer**, DevOps Team (2024/01 - 2024/02)
+- **Frontend Engineer** (2024/01 - 2024/02)
 
 ## Education
 
