@@ -33,7 +33,7 @@
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Langauge**            | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **FrontEnd**            | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  |
-| **BackEnd**             | <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **BackEnd**             | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Database & ORM**      |         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">                                                                                                                                                                                                                                                                                                          |
 
@@ -91,30 +91,30 @@
 </table>
 
 ## 🏆 Award
-- (2023) `3등상` [이노씽크 메이커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- `메이커톤` [이노씽크 메이커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
 
-- (2023) `3등상` [넷제로 해커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- `해커톤` [넷제로 해커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
 
-- (2023) `2등상` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799)
+- `창업` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 2등상
 
-- (2023) `2등상` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do)
+- `아이디어톤` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 2등상
 
-- (2023) `2등상` [SuperChallenge Software Hackerton]() 
+- `해커톤` [SuperChallenge Software Hackerton]() : 2등상
 
-- (2022) `2등상` [IGRUS Newbie Programming Contest]() 
+- `프로그래밍` [IGRUS Newbie Programming Contest]() : 2등상
 
 ## 🛫 Activity
-- (2024) `사업` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
+- `사업` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
 
-- (2024) `개발` [K-Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) 3th TA
+- `개발` [K-Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) 3th TA
 
-- (2023) `개발` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- `개발` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
-- (2022) `사업` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
+- `사업` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
 
-- (2021) `병역` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (Simulation Support) Service
+- `병역` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (Simulation Support) Service
 
-- (2020) `학력` [Inha University](https://cse.inha.ac.kr/cse/index.do) - Computer Science Engineering
+- `학력` [Inha University](https://cse.inha.ac.kr/cse/index.do) - Computer Science Engineering
 <br>
 
 ## 🧠 Problem Solving
@@ -127,10 +127,3 @@
 <div align="center">
 
 </div>
-
-
-<!---
-## Tools
-retro5pect/retro5pect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
