@@ -19,8 +19,8 @@
 - Period: March 2020 - Present
 
 ## 🚀 Projects
-- `Main Project` [Clippy](https://clippy.kr) (2022.11.24 ~ 2023.02.14) : A third-party Twitch clip creation service.
-- `Side Project` [Clippy](https://clippy.kr) (2022.11.24 ~ 2023.02.14) : A third-party Twitch clip creation service.
+- `Main Project` [Clippy](https://clippy.kr) (22.11.24 ~ 23.02.14) : A third-party Twitch clip creation service.
+- `Side Project` [Clippy](https://clippy.kr) (22.11.24 ~ 23.02.14) : A third-party Twitch clip creation service.
 
 ## 🔬 Research
 - `LG U+ Industry Partnership` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : Software Program Registration
@@ -91,30 +91,30 @@
 </table>
 
 ## 🏆 Award
-- `메이커톤` [이노씽크 메이커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
+- `Programming` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
 
-- `해커톤` [넷제로 해커톤](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
+- `Programming` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
 
-- `창업` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 2등상
+- `Business` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 2등상
 
-- `아이디어톤` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 2등상
+- `Planning` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 2등상
 
-- `해커톤` [SuperChallenge Software Hackerton]() : 2등상
+- `Programming` [SuperChallenge Software Hackerton]() : 2등상
 
-- `프로그래밍` [IGRUS Newbie Programming Contest]() : 2등상
+- `Programming` [IGRUS Newbie Programming Contest]() : 2등상
 
 ## 🛫 Activity
-- `사업` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
+- `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
 
-- `개발` [K-Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) 3th TA
+- `Education` [KEB Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) (24.01.14 ~ 24.02.30) : TA
 
-- `개발` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- `Hardware` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
-- `사업` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) 13th
+- `Business` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) (22.04.15 ~ 22.11:31) : Certified
 
-- `병역` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (Simulation Support) Service
+- `Military` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (20.09.21 ~ 22.03.20) : Simulation Support
 
-- `학력` [Inha University](https://cse.inha.ac.kr/cse/index.do) - Computer Science Engineering
+- `Computer` [Inha University Computer Science Engineering](https://cse.inha.ac.kr/cse/index.do) (20.03.01 ~ Present) : Computer Science Engineering
 <br>
 
 ## 🧠 Problem Solving
