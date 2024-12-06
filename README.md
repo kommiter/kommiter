@@ -36,7 +36,7 @@
 - `Side Project` [Mamind](https://mamind.kr) (23.01.11) : Psychotherapy brokerage platform
 
 ## 🔬 Research
-- `Computer Network` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : LG U+ Industry Partnership Project - Software Program Registration
+- `Computer Network` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : LG U+ Industry Partnership Project
 	- Multipath TCP application testbench with container-based network emulator
 	- Compressed beamforming report extractor
 
