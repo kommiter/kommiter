@@ -26,7 +26,7 @@
 - `Side Project` [Inha Connect](https://inha.or.kr) (22.03.01 ~ 24.12.31) : Group formation service based on time table.
 - `Side Project` [Trippy](https://trippy.kr) (23.09.15 ~ 24.02.25) : Check service for prohibited items in the cabin.
 - `Side Project` [Repl](https://www.youtube.com/watch?v=qcF322m8V-4) (23.12) : Auto Response Generator for Reply with GPT API
-- `Side Project` [Mamind](https://mamind.kr) (23.01.11) : Auto Response Generator for Reply with GPT API
+- `Side Project` [Mamind](https://mamind.kr) (23.01.11) : Psychotherapy brokerage platform
 
 ## 🔬 Research
 - `LG U+ Industry Partnership` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : Software Program Registration
@@ -46,57 +46,7 @@
 
 <br><br>
 
-
-
-## Project History
-<table>
-<tr>
-<td align="center" width="225">
-<a href="#">
-<img src="./images/exquiz_me_splash.jpg" height="80" width="auto" alt=""/>
-<br /><b>Live Quiz Platform exquiz.me</b>
-</a><br />
-<sub>2022/07/21 ~ 2022/07/25</sub><br />
-<sub>Next.js, FastAPI, MariaDB, Redis</sub><br />
-<a target="_blank" href="#"><sub>exquiz.me</sub></a>
-</td>
-		
-<td align="center" width="225">
-<a href="#">				
-<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" height="80" width="auto" alt=""/>
-<br /><b>Video Clip Platform Clippy.kr</b>
-</a><br />
-<sub>2022/11/24 ~ 2023/02/14</sub><br />
-<sub>Next.js, NestJS, MariaDB, Redis</sub><br />
-<a target="_blank" href="https://clippy.kr"><sub>clippy.kr</sub></a>
-</td>
-
-<td align="center" width="225">
-<a href="https://mamind.kr">
-<img src="./images/mamind_splash.png" height="80" width="auto" alt=""/>
-<br /><b>My Own Psychological Counseling App, mamind</b>
-</a><br />
-<sub>2022/06/26 ~ 2022/07/02</sub><br />
-<sub>React.js, FastAPI, MariaDB, Redis</sub><br />
-<a target="_blank" href="https://mamind.kr"><sub>mamind.kr</sub></a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="225">
-<a href="trippy.kr">
-<img src="#" height="80" width="auto" alt=""/>
-<br /><b>Image Recognition-Based In-Flight Carry-On Item Detection Service, Trippy.kr</b>
-</a><br />
-<sub>2022/06/05 ~ 2022/06/05</sub><br />
-<sub>Next.js, Tailwind CSS</sub><br />
-<a target="_blank" href="trippy.kr"><sub>trippy.kr</sub></a>
-</td>
-</tr>
-				
-</table>
-
-## 🏆 Award
+## 🏆 Award (Trivial but also my memory...)
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
 - `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
