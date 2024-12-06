@@ -20,16 +20,23 @@
 
 ## 🚀 Projects
 - `Main Project` [Clippy](https://clippy.kr) (22.11.24 ~ 23.02.14) : A third-party Twitch clip creation service.
+  
 - `Main Project` [MSB Corporation](https://msb.co.kr) (22.05.15 ~ 23.12.15) : (Fleelancing) MSB Corporation wep page.
+  
 - `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
+  
 - `Side Project` [Metrofy](https://metrofy.kr) (24.11.17) : Metro Crowd Reconition Service.
+  
 - `Side Project` [Inha Connect](https://inha.or.kr) (22.03.01 ~ 24.12.31) : Group formation service based on time table.
+  
 - `Side Project` [Trippy](https://trippy.kr) (23.09.15 ~ 24.02.25) : Check service for prohibited items in the cabin.
+  
 - `Side Project` [Repl](https://www.youtube.com/watch?v=qcF322m8V-4) (23.12) : Auto Response Generator for Reply with GPT API
+  
 - `Side Project` [Mamind](https://mamind.kr) (23.01.11) : Psychotherapy brokerage platform
 
 ## 🔬 Research
-- `LG U+ Industry Partnership` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : Software Program Registration
+- `Computer Network` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : LG U+ Industry Partnership Project - Software Program Registration
 	- Multipath TCP application testbench with container-based network emulator
 	- Compressed beamforming report extractor
 
@@ -39,14 +46,14 @@
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Langauge**            | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **FrontEnd**            | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">  |
-| **BackEnd**             | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **BackEnd**             | <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Database & ORM**      |         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">                                                                                                                                                                                                                                                                                                          |
 
 
 <br><br>
 
-## 🏆 Award (Trivial but also my memory...)
+## 🏆 Award
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
 - `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
