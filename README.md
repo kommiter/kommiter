@@ -91,20 +91,26 @@
 </table>
 
 ## 🏆 Award
-- `Programming` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
+- `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 500K(₩)
 
-- `Programming` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 3등상
+- `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]() : 200K(₩)
 
-- `Business` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 2등상
+- `3rd` [Inha University Ideathon]() : 100K(₩)
 
-- `Planning` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 2등상
+- `1st` [Net Zero Academy Individual / Team]() : 700K(₩) / 2000K(₩)
 
-- `Programming` [SuperChallenge Software Hackerton]() : 2등상
+- `3rd` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 500K(₩)
 
-- `Programming` [IGRUS Newbie Programming Contest]() : 2등상
+- `2nd` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 1000K(₩)
+
+- `2nd` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 300K(₩)
+
+- `2nd` [SuperChallenge Software Hackerton]() : 1500K(₩)
+
+- `2nd` [IGRUS Newbie Programming Contest]() : 50K(₩)
 
 ## 🛫 Activity
-- `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145)
+- `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145) (24.01.14 ~ 24.01.22)
 
 - `Education` [KEB Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) (24.01.14 ~ 24.02.30) : TA
 
