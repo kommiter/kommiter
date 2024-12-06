@@ -20,7 +20,13 @@
 
 ## 🚀 Projects
 - `Main Project` [Clippy](https://clippy.kr) (22.11.24 ~ 23.02.14) : A third-party Twitch clip creation service.
-- `Side Project` [Clippy](https://clippy.kr) (22.11.24 ~ 23.02.14) : A third-party Twitch clip creation service.
+- `Main Project` [MSB Corporation](https://msb.co.kr) (22.05.15 ~ 23.12.15) : (Fleelancing) MSB Corporation wep page.
+- `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
+- `Side Project` [Metrofy](https://metrofy.kr) (24.11.17) : Metro Crowd Reconition Service.
+- `Side Project` [Inha Connect](https://inha.or.kr) (22.03.01 ~ 24.12.31) : Group formation service based on time table.
+- `Side Project` [Trippy](https://trippy.kr) (23.09.15 ~ 24.02.25) : Check service for prohibited items in the cabin.
+- `Side Project` [Repl](https://www.youtube.com/watch?v=qcF322m8V-4) (23.12) : Auto Response Generator for Reply with GPT API
+- `Side Project` [Mamind](https://mamind.kr) (23.01.11) : Auto Response Generator for Reply with GPT API
 
 ## 🔬 Research
 - `LG U+ Industry Partnership` [Multi-Path TCP](https://www.linkedin.com/in/%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B0%B1%EC%8A%B9%ED%98%9C-%EB%B6%80%EC%9E%A5-%EB%AF%B8%EB%94%94%EC%96%B4%EC%82%AC%EC%97%85%ED%8C%80-33991794/) (2024.04.01 ~ 2024.11.30) : Software Program Registration
@@ -91,23 +97,23 @@
 </table>
 
 ## 🏆 Award
-- `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 500K(₩)
+- `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
-- `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]() : 200K(₩)
+- `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
 
-- `3rd` [Inha University Ideathon]() : 100K(₩)
+- `3rd` [Inha University Ideathon]()
 
-- `1st` [Net Zero Academy Individual / Team]() : 700K(₩) / 2000K(₩)
+- `1st` [Net Zero Academy Individual / Team]()
 
-- `3rd` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) : 500K(₩)
+- `3rd` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 
-- `2nd` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799) : 1000K(₩)
+- `2nd` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799)
 
-- `2nd` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do) : 300K(₩)
+- `2nd` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do)
 
-- `2nd` [SuperChallenge Software Hackerton]() : 1500K(₩)
+- `2nd` [SuperChallenge Software Hackerton]()
 
-- `2nd` [IGRUS Newbie Programming Contest]() : 50K(₩)
+- `2nd` [IGRUS Newbie Programming Contest]()
 
 ## 🛫 Activity
 - `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145) (24.01.14 ~ 24.01.22)
@@ -120,7 +126,7 @@
 
 - `Military` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (20.09.21 ~ 22.03.20) : Simulation Support
 
-- `Computer` [Inha University Computer Science Engineering](https://cse.inha.ac.kr/cse/index.do) (20.03.01 ~ Present) : Computer Science Engineering
+- `Computer` [Inha University Computer Science Engineering](https://cse.inha.ac.kr/cse/index.do) (20.03.01 ~ Present) : Computer Science Engineering
 <br>
 
 ## 🧠 Problem Solving
