@@ -4,7 +4,7 @@
 - Creating an online education platform that allows real-time participation of multiple users through WebSocket.
 - Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
 
-[👉 Notion Portfolio - 🇰🇷KOR](https://aim-higher.notion.site/e7331037417b4969827c75e912978f68?pvs=4)
+[👉 CV Resume -🇺🇸Eng](https://www.linkedin.com/in/haniverse/overlay/1729292416444/single-media-viewer/?profileId=ACoAADxtt_wBbZoAgsFP9YoNV2OC-NDW-wBsPDI)
 
 ## 🧳 Work Experiences
 
@@ -44,8 +44,6 @@
 | **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">                                                                                                                                                                                                                                                                                                          |
 
 
-<br><br>
-
 ## 🏆 Award
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
@@ -53,7 +51,7 @@
 - `2nd` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799)
 - `2nd` [SuperChallenge Software Hackerton]()
 
-## 🥉 Trivial
+## 🥉 (Minor) Award
 - `3rd` [Generative AI for PR Content Contest](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `3rd` [Inha University Ideathon]()
 - `3rd` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
@@ -61,11 +59,19 @@
 - `2nd` [IGRUS Newbie Programming Contest]()
 
 ## 🛫 Activity
-- `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145) (24.01.14 ~ 24.01.22)
-- `Education` [KEB Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) (24.01.14 ~ 24.02.30) : TA
-- `Hardware` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `Business` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) (22.04.15 ~ 22.11:31) : Certified
 - `Military` [Korean Army Computer Specialist](https://namu.wiki/w/%EC%A0%84%ED%88%AC%EC%A7%80%ED%9C%98%ED%9B%88%EB%A0%A8%EB%8B%A8) (20.09.21 ~ 22.03.20) : Simulation Support
+
+## 🛫 (Supplementary) Activity
+- `Business` [Newyork Global Start-Up Capstone Design Program](https://blog.naver.com/inha_startup/223252643145) (24.01.14 ~ 24.01.22)
+- `Education` [KEB Software Bootcamp](https://www.inha.ac.kr/bbs/kr/11/36283/artclView.do) (24.01.14 ~ 24.02.30) : TA
+- `Hardware` [Thailand Chiang-Mai University HACKERTON/K-CAMT](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjExNTY4NSUyRmFydGNsVmlldy5kbyUzRg%3D%3D) (24.12.14 ~ 24.12.24)
+- `Business` [Hana bank Social Venture University]() (23.07.15 ~ 23.08.15)
+<br>
+
+## 📝 Certification
+- `Cloud` [Architecting on AWS]() (22.07.20 ~ 24.01.22)
+- `Computer` [TOPCIT]() (24.05.18) :
 <br>
 
 ## 🧠 Problem Solving
