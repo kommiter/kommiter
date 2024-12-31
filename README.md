@@ -9,7 +9,7 @@
 ## 🧳 Work Experiences
 
 **HyperEZ (MSB Corporation)**
-- **Frontend Engineer (Free Lancer)** (2024/01 - 2024/02)
+- **Frontend Engineer (Free Lancer)** (2024/02)
 
 ## 🎓 Education
 
