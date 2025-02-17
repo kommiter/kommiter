@@ -58,7 +58,7 @@
 - `3rd` [Inha University Ideathon]()
 - `3rd` [Inha University Net Zero Hackathon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `2nd` [Inha University Ideathon](https://cse.inha.ac.kr/bbs/cse/241/105700/artclView.do)
-- `2nd` [IGRUS Newbie Programming Contest]()
+- `2nd` [IGRUS Newbie Programming Contest](https://www.acmicpc.net/contest/spotboard/854)
 
 ## 🛫 Activity
 - `Business` [Ministry of Science and ICT's Software Maestro](https://www.swmaestro.org/sw/main/main.do) (22.04.15 ~ 22.11:31) : Certified
