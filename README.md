@@ -2,14 +2,9 @@
 > I am Junhyeon Lim, a Front-End Developer, committed to continuous growth through challenges
 ### Key Development Experiences
 - Creating an online education platform that allows real-time participation of multiple users through WebSocket.
-- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users (MAU) and collecting feedback for a software company.
+- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users and collecting feedback for a software company.
 
 [👉 CV Resume](https://www.linkedin.com/in/haniverse/overlay/1729292416444/single-media-viewer/?profileId=ACoAADxtt_wBbZoAgsFP9YoNV2OC-NDW-wBsPDI)
-
-## 🧳 Work Experiences
-
-**HyperEZ (MSB Corporation)**
-- **Frontend Engineer (Free Lancer)** (2024/02)
 
 ## 🎓 Education
 
