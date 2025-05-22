@@ -4,7 +4,7 @@
 - Creating an online education platform that allows real-time participation of multiple users through WebSocket.
 - Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users and collecting feedback for a software company.
 
-[👉 CV Resume](https://www.linkedin.com/in/haniverse/overlay/1729292416444/single-media-viewer/?profileId=ACoAADxtt_wBbZoAgsFP9YoNV2OC-NDW-wBsPDI)
+[👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
 
 ## 🎓 Education
 
