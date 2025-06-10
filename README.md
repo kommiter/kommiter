@@ -2,7 +2,7 @@
 > I am Junhyeon Lim, a Front-End Developer, committed to continuous growth through challenges
 ### Key Development Experiences
 - Creating an online education platform that allows real-time participation of multiple users through WebSocket.
-- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users and collecting feedback for a software company.
+- Delivering a software solution capable of handling user traffic exceeding 40,000 monthly active users.
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
 
