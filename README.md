@@ -1,6 +1,11 @@
 # JunHyeon Lim
+> Working as a software engineering intern at Weavel, I’m building a complete vertical AI service from end to end.
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
+
+## 🎓 Work
+
+- Typa (YC 24)
 
 ## 🎓 Education
 
@@ -38,6 +43,7 @@
 | **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/aws-ffbb00?style=for-the-badge&logo=aws&logoColor=black"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> |
 
 ## 🏆 Award
+- `1st` [Capstone Design](https://swuniv.inha.ac.kr/bbs/swuniv/3113/155508/artclView.do)
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
 - `1st` [Net Zero Academy Individual / Team]()
