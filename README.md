@@ -1,11 +1,11 @@
-# JunHyeon Lim
-> Working as a software engineering intern at Weavel, I’m building a complete vertical AI service from end to end.
+# Justin Lim
+> Super Intern in Typa (Y Combinator S24)
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
 
 ## 🎓 Work
 
-- Typa (YC 24)
+- Software Engineer Intern, Typa (YC S24)
 
 ## 🎓 Education
 
@@ -15,6 +15,7 @@
 - Period: March 2020 - Present
 
 ## 🚀 Projects
+- `Career Path` [Typa](https://typa.ai) (25.07.28 ~ Current) : AI ghostwriter that writes in your tone of voice
 - `Main Project` [MSB Corporation](https://msb.co.kr) (24.02.01 ~ 24.03.15) : (Fleelancing) MSB Corporation wep page.
 - `Main Project` [Clippy](https://clippy.kr) (22.12.10 ~ 23.02.14) : A third-party Twitch clip creation service.
 - `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
@@ -45,7 +46,7 @@
 ## 🏆 Award
 - `1st` [Capstone Design](https://swuniv.inha.ac.kr/bbs/swuniv/3113/155508/artclView.do)
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
-- `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform]()
+- `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform](https://kbds.re.kr/portal/board/bbd0f717170511ee8157141877507e8b/view/732)
 - `1st` [Net Zero Academy Individual / Team]()
 - `2nd` [I-StartUp Lab Accelerating Pre-Entrepreneurship Training Program](https://startup.inha.ac.kr/schedule/view.htm?menuId=520&id=799)
 - `2nd` [SuperChallenge Software Hackerton]()
