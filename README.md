@@ -1,5 +1,5 @@
 # Justin Lim
-> Super Intern in Typa (Y Combinator S24)
+was > Super Intern in Typa (Y Combinator S24)
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
 
