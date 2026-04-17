@@ -72,6 +72,7 @@ was > Super Intern in Typa (Y Combinator S24)
 ## 📝 Certification
 - `Cloud` [Architecting on AWS]() (22.07.20 ~ 24.01.22)
 - `Computer` [TOPCIT]() (24.05.18) : LEVEL 3 (491)
+- `Pilot` [Drone]() (26.04.09) : Pilot of an ultra light vehicle (1st Class)
 <br>
 
 ## 🧠 Problem Solving
