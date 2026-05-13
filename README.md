@@ -15,7 +15,7 @@ was > Super Intern in Typa (Y Combinator S24)
 - Period: March 2020 - Present
 
 ## 🚀 Projects
-- `Career Path` [Typa](https://typa.ai) (25.07.28 ~ Current) : AI ghostwriter that writes in your tone of voice
+- `Career Path` [Typa](https://typa.ai) (25.07.28 ~ 25.12.31) : AI ghostwriter that writes in your tone of voice
 - `Main Project` [MSB Corporation](https://msb.co.kr) (24.02.01 ~ 24.03.15) : (Fleelancing) MSB Corporation wep page.
 - `Main Project` [Clippy](https://clippy.kr) (22.12.10 ~ 23.02.14) : A third-party Twitch clip creation service.
 - `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
