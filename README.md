@@ -3,7 +3,7 @@ was > Super Intern in Typa (Y Combinator S24)
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
 
-## 🎓 Work
+## 💼 Work
 
 - Software Engineer Intern, Typa (YC S24)
 
@@ -73,6 +73,7 @@ was > Super Intern in Typa (Y Combinator S24)
 - `Cloud` [Architecting on AWS]() (22.07.20 ~ 24.01.22)
 - `Computer` [TOPCIT]() (24.05.18) : LEVEL 3 (491)
 - `Pilot` [Drone]() (26.04.09) : Pilot of an ultra light vehicle (1st Class)
+- `CS` [Engineer Information Processing]() (26.06.10)
 <br>
 
 ## 🧠 Problem Solving
