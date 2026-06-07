@@ -1,4 +1,4 @@
-# Justin Lim
+# Justin Lim (林俊賢)
 was > Super Intern in Typa (Y Combinator S24)
 
 [👉 CV Resume](https://drive.google.com/file/d/138aM1-ticobQ64sLhTFoTjVqndlEyUPy/view?usp=drive_link)
