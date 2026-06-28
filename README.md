@@ -74,6 +74,7 @@ was > Super Intern in Typa (Y Combinator S24)
 - `Computer` [TOPCIT]() (24.05.18) : LEVEL 3 (491)
 - `Pilot` [Drone]() (26.04.09) : Pilot of an ultra light vehicle (1st Class)
 - `CS` [Engineer Information Processing]() (26.06.10)
+- `SQL` [SQLD]() (26.06.19)
 <br>
 
 ## 🧠 Problem Solving
