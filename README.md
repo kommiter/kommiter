@@ -11,8 +11,7 @@ was > Super Intern in Typa (Y Combinator S24)
 
 **Inha University**
 
-- Studies: Computer Science Engineering (20.03 ~ Present)
-- Period: March 2020 - Present
+- Studies: Computer Science Engineering (20.03 ~ 26.02)
 
 ## 🚀 Projects
 - `Career Path` [Typa](https://typa.ai) (25.07.28 ~ 25.12.31) : AI ghostwriter that writes in your tone of voice
