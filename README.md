@@ -31,17 +31,6 @@ was > Super Intern in Typa (Y Combinator S24)
 	- Multipath TCP application testbench with container-based network emulator
 	- Compressed beamforming report extractor
 
-## 🛠️ Tech Stacks
-
-| Category                    | Skills                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Langauge**            | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=CPlusPlus&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> |
-| **FrontEnd**            | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=SWR&logoColor=white"> <img src="https://img.shields.io/badge/RECOIL-3578E5?style=for-the-badge&logo=RECOIL&logoColor=white"> |
-| **Styling**            | <img src="https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=TAILWINDCSS&logoColor=white"> <img src="https://img.shields.io/badge/SHADCN.UI-000000?style=for-the-badge&logo=SHADCN/UI&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> |
-| **BackEnd**             | <img src="https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=NESTJS&logoColor=white"> |
-| **Database & ORM**      | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=POSTGRESQL&logoColor=white"> <img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=PrismaL&logoColor=white"> |
-| **DevOps & Cloud/Infra** | <img src="https://img.shields.io/badge/aws-ffbb00?style=for-the-badge&logo=aws&logoColor=black"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"> |
-
 ## 🏆 Award
 - `1st` [Capstone Design](https://swuniv.inha.ac.kr/bbs/swuniv/3113/155508/artclView.do)
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
@@ -77,9 +66,8 @@ was > Super Intern in Typa (Y Combinator S24)
 <br>
 
 ## 🧠 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgus821)](https://solved.ac/wnsgus821/)
-<br />
-[![CodeForces Profile](https://cf.leed.at?id=retro5pect)](https://codeforces.com/profile/retro5pect)
+- `PS` [Solved.ac](https://solved.ac/wnsgus821/) : Platinum V
+- `PS` [CodeForces](https://cf.leed.at?id=retro5pect) : Green(1258)
 
 ## 🗣️ Language
 - English, Japanese (Intermediate)
