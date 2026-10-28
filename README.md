@@ -15,6 +15,9 @@ was > Super Intern in Typa (Y Combinator S24)
 
 ## 🚀 Projects
 - `Career Path` [Typa](https://typa.ai) (25.07.28 ~ 25.12.31) : AI ghostwriter that writes in your tone of voice
+- `Main Project` [Manna, Agora]() (26.06.01 ~ Present) : Stealth
+- `Main Project` [Maskara](https://maskara.dev) (26.10.24 ~ Present) : PII masking open source
+- `Main Project` [Exquiz.me](https://msb.co.kr) (26.06.01 ~ Present) : Exam questions broken down into proposition-level flashcards
 - `Main Project` [MSB Corporation](https://msb.co.kr) (24.02.01 ~ 24.03.15) : (Fleelancing) MSB Corporation wep page.
 - `Main Project` [Clippy](https://clippy.kr) (22.12.10 ~ 23.02.14) : A third-party Twitch clip creation service.
 - `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
@@ -32,6 +35,7 @@ was > Super Intern in Typa (Y Combinator S24)
 	- Compressed beamforming report extractor
 
 ## 🏆 Award
+- `3rd` [OpenAI DevDay Community Hackathon Seoul](https://luma.com/f7h7onav?tk=53Kyju)
 - `1st` [Capstone Design](https://swuniv.inha.ac.kr/bbs/swuniv/3113/155508/artclView.do)
 - `3rd` [Innothink Make-A-Thon](https://swuniv.inha.ac.kr/swuniv/12703/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGc3d1bml2JTJGMzExMyUyRjEwNDc1OSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
 - `Sol` [Life Research Resources AI Utilization Contest : K-BDS Platform](https://kbds.re.kr/portal/board/bbd0f717170511ee8157141877507e8b/view/732)
@@ -61,8 +65,8 @@ was > Super Intern in Typa (Y Combinator S24)
 - `Cloud` [Architecting on AWS]() (22.07.20 ~ 24.01.22)
 - `Computer` [TOPCIT]() (24.05.18) : LEVEL 3 (491)
 - `Pilot` [Drone]() (26.04.09) : Pilot of an ultra light vehicle (1st Class)
-- `CS` [Engineer Information Processing]() (26.06.10)
 - `SQL` [SQLD]() (26.06.19)
+- `CS` [Engineer Information Processing]() (26.09.12)
 <br>
 
 ## 🧠 Problem Solving
