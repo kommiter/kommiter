@@ -21,6 +21,8 @@ was > Super Intern in Typa (Y Combinator S24)
 - `Main Project` [MSB Corporation](https://msb.co.kr) (24.02.01 ~ 24.03.15) : (Fleelancing) MSB Corporation wep page.
 - `Main Project` [Clippy](https://clippy.kr) (22.12.10 ~ 23.02.14) : A third-party Twitch clip creation service.
 - `Main Project` [Exquiz Me](https://exquiz.me) (22.05.15 ~ 23.12.15) : Online Web Quiz Platform.
+
+## 🛠️ Side Projects
 - `Side Project` [Wikiz](https://github.com/kommiter/wikiz) (24.12.22 ~ 24.12.23) : Wikipedia Local Archiving, Quiz Generator
 - `Side Project` [Metrofy](https://metrofy.kr) (24.11.17) : Metro Crowd Reconition Service.
 - `Side Project` [Inha Connect](https://inha.or.kr) (22.03.01 ~ 24.12.31) : Group formation service based on time table.
